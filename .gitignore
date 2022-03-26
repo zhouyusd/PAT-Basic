@@ -1,0 +1,12 @@
+# Ignore All
+*
+
+!.gitignore
+
+# Unignore All Dir
+!*/
+
+# Unignore Source Code
+!*.cpp
+!*.java
+!*.py
